@@ -4,18 +4,18 @@ import matplotlib.pyplot as plt
 # Define species map
 species_map = {
     "A2VBC4": "Polybia paulista (Neotropical social wasp)",
-    "C0HLL3": "Vespa velutina (Asian yellow-legged-hornet",
+    "C0HLL3": "Vespa velutina (Asian yellow-legged-hornet)",
     "P0CH47": "Vespa mandarinia (Hornet)",
     "P0CH87": "Vespa crabro (European Hornet)",
     "P0DMB5": "Vespa affinis (PA12, lesser banded hornet)",
-    "P0DSI2": "Dinoponera quadriceps (South American ant)",
+    "P0DS12": "Dinoponera quadriceps (South American ant)", 
     "P49369": "Vespula vulgaris (Yellow jacket)",
     "P51528": "Vespula maculifrons (Eastern yellow jacket)",
     "Q3ZU95": "Vespula germanica (German yellow jacket)",
-    "P0DMB4": "Vespa affinis (PA11, lesser banded hornet)",
-    "Q9U6W0": "Polistes annularis (Paper wasp)",
     "Q68KK0": "Solenopsis invicta (Red imported fire ant)",
-    "Q06478": "Dolichovespula maculata (Bald-faced hornet)"
+    "Q06478": "Dolichovespula maculata (Bald-faced hornet)",
+    "Q9U6W0": "Polistes annularis (Paper wasp)",
+    "Q6Q252": "Polistes dominula (Paper wasp PA11)"
 }
 
 # Read the Newick tree file
